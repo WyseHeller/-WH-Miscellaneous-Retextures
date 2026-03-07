@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>[WH] Miscellaneous Retextures</name>
-	<packageId>WyseHeller.MiscRetextures</packageId>
+	<packageId>WyseHeller.MiscellaneousRetextures</packageId>
 	<author>wyseheller</author>
-	<url>https://github.com/WyseHeller/AnimalTrapRetexture</url>
+	<url>https://github.com/WyseHeller/-WH-Miscellaneous-Retextures</url>
 	<supportedVersions><li>1.6</li></supportedVersions>
-	<description>Miscellaneous retextures for various things in Rimworld.</description>
-	<loadAfter><li>GGerom.AnimalTrap</li></loadAfter>
+	<description>Miscellaneous retextures for Things and Thing Accessories.</description>
+	<loadAfter>
+		<li>AIRetexture.Core</li>
+		<li>VanillaExpanded.VTEXE</li>
+		<li>Gerrymon.UVT</li>
+		<li>al9000.tvc</li>
+		<li>GGerom.AnimalTrap</li>
+	</loadAfter>
 </ModMetaData>
