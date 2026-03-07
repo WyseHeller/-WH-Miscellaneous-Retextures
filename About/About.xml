@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[WH] Miscellaneous Retextures</name>
+	<packageId>WyseHeller.MiscRetextures</packageId>
+	<author>wyseheller</author>
+	<url>https://github.com/WyseHeller/AnimalTrapRetexture</url>
+	<supportedVersions><li>1.6</li></supportedVersions>
+	<description>Miscellaneous retextures for various things in Rimworld.</description>
+	<loadAfter><li>GGerom.AnimalTrap</li></loadAfter>
+</ModMetaData>
