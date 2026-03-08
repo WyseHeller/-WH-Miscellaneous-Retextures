@@ -14,7 +14,7 @@ a handful of retextures for various things throughout Rimworld, as well as some 
 <br>
 currently covers various textures amongst the following modules:
 <ul>
-  <li>Rimworld: Plate Armor, Simple Helmet</li>
+  <li>Rimworld: War Mask, Plate Armor, Simple Helmet</li>
   <li>Ideology: War Mask (Animalist Style), Marine Helmet (Animalist Style), Simple Helmet (Rustic)</li>
   <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3525626207">Animal Trap</a>: Animal Trap</li>
   <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3678830567">RimScent: Incense Expansion</a>: Incense Sticks, Incense Burners</li>
