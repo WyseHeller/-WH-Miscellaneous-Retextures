@@ -4,6 +4,7 @@
 #### Description
 a handful of retextures for various things throughout Rimworld, as well as some mods.
 <br>
+<img src="https://github.com/WyseHeller/-WH-Miscellaneous-Retextures/blob/main/Textures/Things/Pawn/Humanlike/Apparel/WarMask/WarMask_south.png" width="128">
 <img src="https://github.com/WyseHeller/-WH-Miscellaneous-Retextures/blob/main/Textures/Things/Pawn/Humanlike/Apparel/PlateArmor/PlateArmor_Male_south.png" width="128">
 <img src="https://github.com/WyseHeller/-WH-Miscellaneous-Retextures/blob/main/Textures/Things/Pawn/Humanlike/Apparel/SimpleHelmet/SimpleHelmet_south.png" width="128">
 <img src="https://github.com/WyseHeller/-WH-Miscellaneous-Retextures/blob/main/Textures/Things/Item/Resource/IncenseSticks_Soothing/IncenseSticks_Soothing_e.png?raw=true" width="128">
